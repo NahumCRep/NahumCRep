@@ -1,5 +1,5 @@
 # Hi there, i am Nahum Casco 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahumcrep&show_icons=true&theme=gruvbox)](https://github.com/nahumcrep/github-readme-stats)
+
 
 # Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -15,6 +15,10 @@
 ### places where i keep learning
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
+
+# Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahumcrep&show_icons=true&theme=gruvbox)](https://github.com/nahumcrep/github-readme-stats)
 <!--
 **NahumCRep/NahumCRep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
