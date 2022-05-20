@@ -8,9 +8,6 @@ Graduated in Computer and systems engineering and focused on growing professiona
 
 
 # Skills 
-
-<!-- ![me](https://lh3.googleusercontent.com/z1MtLU80KuoV9U8ggZY3D0XKAzTmNSZ99rTxciCZxH_JvIui8gRGyASB3Sd1IymdQAwAXofWfXDYNEeQY5zFHAYMt23urxoXX_4_R2Xyc0Yczg2y-ODs6cbfUyAV1fzVrz9Y3DAXQmESKxyP_7K5jUb9rIYTECx0uXvfJuBTdvNO3mdGkk2Xu-cBNd6C_Wt4vuFS6UzVr3Q5SbMPeo0QoPe4buYU91JCmot4dQU758Xs0mfEyPLVsCj6b6uZ-E_-3xoimeW5CFVTUOBfchr_VyJsmGjUl1wkqpLBpC5q2F-ChjhYMa-FvA_phLtVrgLUPX2UbI19E6O8ymXhHwzuD7bkyD3v3jva2BiKygXT-wV9QUOw2M731j7hy1i2c-hmKTQ6c6brE8a9nxkTKoIb6RiT7uItaG1g0s79lsaGIwsnUlRjpjzZWDtUtSGP_s1v25-9NVUDpCmTfOI4OluVjzvww9GpvnDxdWd4uveMTjTUSPchbA6U9srXWS3w0Ist9UzqzKXoGmuqpoyWdAIG_zjq4e_gkJlYe7_Csyw30d_PvZYBRmn20xjx6Uo1IVv09-fDFB_ZiJA9fS4Q9JHgctyjgoDWe7YwYc5s8bGR9GZjFGTxUGcGZ3QaxUBY308LFsPDrrx_uk-yADx1nOMQf-h686lu9G7Z0NFfEDjIel0PCSFIFyfwv6KysPVVLXyN_1p9WXBDtWvlZAUVF8pqgnRWD3ydm2u-4hZVuqRCkGXLkHMImPZpv-_WeN2A7zzkDK1HJBnQtirHTfSE2QLpiFHBLcNNthMR=w150-h150-no?authuser=1) -->
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -28,17 +25,3 @@ Graduated in Computer and systems engineering and focused on growing professiona
 
 # Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahumcrep&show_icons=true&theme=gruvbox)](https://github.com/nahumcrep/github-readme-stats)
-<!--
-**NahumCRep/NahumCRep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
