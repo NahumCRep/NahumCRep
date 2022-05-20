@@ -1,15 +1,15 @@
 ![naoh boy](https://github.com/NahumCRep/ReadmeAssets/blob/main/Group%205.png) 
 
-<h1 align="center">Hi there, I am Nahum Casco </h1>
+# Hi there, I am Nahum Casco
 
 <p align="left">
   Graduated in Computer and systems engineering and focused on growing professionally as a Front End web developer and with the goal of acquiring the knowledge to be a   Full Stack Developer in the future.
 </p>
 
 
-<p align="right">
+<!-- <p align="right">
   <img width="200" src="http://material-bread.org/logo-shadow.svg" alt="Material Bread logo">
-</p>
+</p> -->
 
 
 # Skills 
