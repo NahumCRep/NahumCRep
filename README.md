@@ -29,4 +29,4 @@ Graduated in Computer and systems engineering and focused on growing professiona
 # Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahumcrep&show_icons=true&theme=gruvbox)](https://github.com/nahumcrep/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahumcrep&layout=compact)](https://github.com/nahumcrep)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahumcrep&layout=compact&theme=gruvbox)](https://github.com/nahumcrep)
