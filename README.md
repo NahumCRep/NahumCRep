@@ -12,7 +12,7 @@
 </p> -->
 
 <p align="center">
-  <a href=""> <img width="200" src="https://github.com/NahumCRep/ReadmeAssets/blob/main/instragram%20btn.png" alt="instagram btn"> </a>
+  <a href=""> <img width="200" src="https://github.com/NahumCRep/ReadmeAssets/blob/main/instagram%20btn.png" alt="instagram btn"> </a>
 </p>
 
 # Skills 
