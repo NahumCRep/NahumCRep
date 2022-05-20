@@ -1,17 +1,20 @@
-
-
 ![naoh boy](https://lh3.googleusercontent.com/nFO58R74HZNyT2ViiOPUQNneQ-PFGKXPcDKr9OuCrCQavUwAiR6siz4oDnIzDKbfZVKV-_GLrEVF9Dz_NaF4YQvQU-eVVBXntnKdqpf4DGr1XM9BjSlCmLwAl0HI8ClwUqsCwc8cAc9sGJMtAAKqlyBOjO3GgmX49t-zDgeViFI2-kCg3mUg2RI4F0XOeSfYh151G2M9pyYjQk4-fx-iUtYH1ZelCNwY58xdObp2GbQ9nICjwrAIp8JDz35PHh6jjVkOZQx2yjxdc08TsvkC0JulxWjfiTDHXTfPW4y7ULArce6JJOPskVPqV2TfVNTPvijM058FDYWSaNhk1xwmNJn8jh-_kOSvh-iohgKi9RYwwEkSezUotzUesD8rWUWT995eJPNtI85D75wrsj772q1k-v-hmtWODm-V3JepSByOSq8rCGocR2GM04PbgqmkCsEhmundgxt0Xt_KY5PlBLv6tMSEvujtG0ietDtpGMXwCZR5wJhef_yt8kCPF-vi3zZYscXnaJ6kLENPjm1fMjfWSjZ7bYhJhqEZTQj4ASQ832tGqxfcWiTah2eaZAwtxMKLdGExwEOJAlm2pL-MezK4mJVa_700XhSukJiwxy4SpXBiTKT1_mP0Uju34kTI7dMeRfYcbGU1IpbCT4_zrOftGD100FG5IMw1JeoUS6J7bjTr9tH-pqgnMx8tc99BiVr1cSC3ngrVFxS4KnUKdCw401qnIk9rNog5BeqWjbsF1HeGrfgwhSNbGHlpR7qHCE8gw7tMQKp6rXtiz_maKt59QGUcdOIL=w1000-h548-no?authuser=1) 
 
 # Hi there, I am Nahum Casco
 
 Graduated in Computer and systems engineering and focused on growing professionally as a Front End web developer and with the goal of acquiring the knowledge to be a Full Stack Developer in the future.
 
+<a>
+  
+</a>
+
 
 # Skills 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
