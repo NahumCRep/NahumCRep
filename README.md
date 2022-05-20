@@ -12,7 +12,15 @@
 </p> -->
 
 <p align="center">
-  <a href="https://www.instagram.com/nahumcasco/" target="__blank"> <img width="200" src="https://github.com/NahumCRep/ReadmeAssets/blob/main/instagram%20btn.png" alt="instagram btn"> </a>
+  <a href="https://www.instagram.com/nahumcasco/"> 
+    <img width="200" src="https://github.com/NahumCRep/ReadmeAssets/blob/main/instagram%20btn.png" alt="instagram btn">
+  </a>
+  <a href="https://www.linkedin.com/in/nahum-casco/"> 
+    <img width="200" src="https://github.com/NahumCRep/ReadmeAssets/blob/main/linkedin%20btn.png" alt="linkedin btn">
+  </a>
+  <a href="https://nahumcasco.netlify.app/"> 
+    <img width="200" src="https://github.com/NahumCRep/ReadmeAssets/blob/main/webpage%20btn.png" alt="webpage btn">
+  </a>
 </p>
 
 # Skills 
