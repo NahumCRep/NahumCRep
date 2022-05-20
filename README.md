@@ -6,10 +6,9 @@
   Graduated in Computer and systems engineering and focused on growing professionally as a Front End web developer and with the goal of acquiring the knowledge to be a   Full Stack Developer in the future.
 </p>
 
-
-<!-- <p align="right">
-  <img width="200" src="http://material-bread.org/logo-shadow.svg" alt="Material Bread logo">
-</p> -->
+<p align="center">
+  <img width="400" src="https://github.com/NahumCRep/ReadmeAssets/blob/main/boypc.png" alt="naoh boy">
+</p>
 
 <p align="center">
   <a href="https://www.instagram.com/nahumcasco/"> 
