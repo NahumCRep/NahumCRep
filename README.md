@@ -43,3 +43,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahumcrep&show_icons=true&theme=gruvbox)](https://github.com/nahumcrep/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahumcrep&layout=compact&theme=gruvbox)](https://github.com/nahumcrep)
+
+#
+
+<p align="center">
+  <img width="150" src="https://github.com/NahumCRep/ReadmeAssets/blob/main/Recurso%2012.png" alt="naoh boy">
+</p>
